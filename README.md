@@ -5,3 +5,7 @@ Performs Linear Interpolation of the mouse movement and shows the difference bet
 ## Built With
 
 - [SFML](https://www.sfml-dev.org/)
+
+## Screenshots
+
+<img height="480px" src="Screenshots/1.png">
